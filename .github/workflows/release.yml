@@ -42,3 +42,4 @@ jobs:
           git config --global user.email 'runner@users.noreply.github.com'
           git commit -am "Release"
           git push --force origin main:release
+          
